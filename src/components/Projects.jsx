@@ -30,7 +30,7 @@ const PROJECTS = [
     description:
       "A mini project where people can donate their old clothes, Books & Toys. Donors can submit requests and volunteers/organizers can collect and distribute clothes to people in need.",
     learn: "Understood how to design simple flows, collect user data, and convert an idea into a working interface.",
-    tech: ["HTML", "CSS", "Bootstrap", "Php"],
+    tech: ["HTML", "CSS", "Bootstrap", "Php"],      
   },
   {
     id: 2,
@@ -102,7 +102,7 @@ const Projects = () => {
                     </span>
                   ))}
                 </div>
-
+      <a  href="https://github.com/Shristi703" target="_blank" rel="noreferrer">  GitHub </a>
               </div>
             </motion.div>
           ))}

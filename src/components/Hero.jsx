@@ -102,7 +102,7 @@ const Hero = () => {
   transition={{ duration: 0.8, ease: "easeOut", delay: 0.2 }}
 >
   <motion.img
-    src="src/assets/Profile.png"
+    src="/Profile.png"
     alt="Shristi Shrivastava"
     className="hero__image circular-image"
     whileHover={{ scale: 1.05 }}

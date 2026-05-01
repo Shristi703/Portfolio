@@ -47,13 +47,13 @@ const Hero = () => {
           </motion.h1>
 
           <motion.h2 className="hero__subtitle" variants={item}>
-            Frontend Developer & Full Stack Enthusiast
+            Software Developer & Full Stack Enthusiast
           </motion.h2>
 
           <motion.p className="hero__description" variants={item}>
-            I create easy-to-use and modern web pages with React, HTML, and CSS. I like making websites that 
-            look good and work smoothly for users. I also focus on writing reusable code so things stay
-             organized and simple. I keep learning new technologies to get better at what I do.
+            Web application development is one of my areas of expertise as I create user-friendly and contemporary web applications using React, HTML, and CSS. At present, I serve as an intern at X2 Infotech as a full-stack developer where I get to have practical exposure to the construction of responsive web applications.
+
+Apart from creating responsive applications, I also ensure that the code written is clean and reusable to keep the application well-maintained. In addition to these skills, I keep myself updated with emerging technologies.
           </motion.p>
 
           <motion.div className="hero__chips" variants={item}>
@@ -102,7 +102,7 @@ const Hero = () => {
   transition={{ duration: 0.8, ease: "easeOut", delay: 0.2 }}
 >
   <motion.img
-    src="/Profile.png"
+    src="/profile.png"
     alt="Shristi Shrivastava"
     className="hero__image circular-image"
     whileHover={{ scale: 1.05 }}

@@ -38,15 +38,13 @@ const About = () => {
 
           <p className="about__text" variants={item}>
             I’m <span className="about__highlight">Shristi Shrivastava</span>, a{" "}
-            <strong>Frontend Developer</strong> and{" "}
-            <strong>Full Stack Enthusiast</strong>,I have completed my BCA and currently pursuing MCA.
-             I enjoy turning complex problems into simple, clean, and beautiful web experiences. I am actively
-              looking for a great opportunity where I can grow, contribute, and apply my skills in real-world 
-              projects.
-          </p>
-
-          <p className="about__text" variants={item}>
-            I work with <strong>React,Node.js.Tailwind CSS ,HTML.</strong><pre>I love writing clean, reusable code and creating UIs that feel smooth and</pre>
+            <strong>Software Developer</strong> and{" "}
+            <strong>Full Stack Enthusiast</strong>,I have completed my MCA and currently working as a <strong> Full Stack Developer Intern at X2
+             Infotech, </strong> where I am gaining hands-on experience in building scalable and responsive web applications. I enjoy turning
+              complex problems into simple, clean, and user-friendly web experiences.
+I am passionate about developing efficient solutions using modern technologies like <strong>React,Node.js.Tailwind CSS.</strong> I am actively
+ seeking a great opportunity where I can continue to grow, contribute to real-world projects, and enhance my technical and 
+ problem-solving skills.
           </p>
 
           <motion.div className="about__stats" variants={item}>
@@ -141,6 +139,8 @@ const About = () => {
                 <div className="about__skills-tags">
                   <span>Git</span>
                   <span>VS Code</span>
+                 <span>File Zilla </span>
+                  <span>vercel</span>
                 </div>
               </div>
             </div>

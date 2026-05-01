@@ -35,7 +35,7 @@ const socials = [
   {
     label: "Instagram",
     desc: "Exploring Creativity Through Fashion Design",
-    href: "https://www.instagram.com/designer_queen703/?next=%2F&hl=en",
+    href: "https://www.instagram.com/just_random_703/",
   },
 ];
 

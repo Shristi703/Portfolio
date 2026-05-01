@@ -24,7 +24,7 @@ const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     // yaha tu baad me emailjs / backend wagaira connect kar sakta hai
-    alert("Thanks for reaching out! (Form submit handle yaha se hoga)");
+    alert("Thanks for reaching out!");
   };
 
   return (

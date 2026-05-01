@@ -24,7 +24,7 @@ const item = {
 const PROJECTS = [
   {
     id: 1,
-    title: "Design of Donation Assistant ",
+    title:<a  href="https://helping-hand.infinityfreeapp.com/Helping-Hand-main/index.php?i=1" target="_blank" rel="noreferrer">Design of Donation Assistant</a>,                           
     tag: "MCA 2nd Semester Project",
     year: "2025 Feb - 2025 May ",
     description:
@@ -34,7 +34,7 @@ const PROJECTS = [
   },
   {
     id: 2,
-    title: "Tenant Verification App",
+    title:<a  href="https://tenant-verify.vercel.app/" target="_blank" rel="noreferrer">Tenant Verification App</a>,
     tag: "MCA 3rd Semester Project",
     year: "2025",
     description:
@@ -103,6 +103,7 @@ const Projects = () => {
                   ))}
                 </div>
       <a  href="https://github.com/Shristi703" target="_blank" rel="noreferrer">  GitHub </a>
+
               </div>
             </motion.div>
           ))}

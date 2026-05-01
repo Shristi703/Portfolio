@@ -102,7 +102,7 @@ Apart from creating responsive applications, I also ensure that the code written
   transition={{ duration: 0.8, ease: "easeOut", delay: 0.2 }}
 >
   <motion.img
-    src="/profile.png"
+    src="\profile .png"
     alt="Shristi Shrivastava"
     className="hero__image circular-image"
     whileHover={{ scale: 1.05 }}
